@@ -1,1 +1,5 @@
-
+{
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/pal0022/picotest/main/latest/code.py",
+    "changelog": "Initial release with OTA support"
+}
